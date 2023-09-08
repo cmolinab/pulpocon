@@ -2,7 +2,6 @@
 
 Useful links: [Slides](https://docs.google.com/presentation/d/18UYpWkTqb8m01kiZxt3GCvQnVbSRCZ9xSfXBvQGZhVw/edit?usp=sharing), [k6 docs](https://k6.io/docs/)
 
-
 - [0. Before we start](#0-before-we-start)
   * [0.1. Introduction](#01-introduction)
   * [0.2. Requirements](#02-requirements)
